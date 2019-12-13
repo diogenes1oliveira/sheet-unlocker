@@ -1,0 +1,25 @@
+{
+  "name": "sheet-unlocker",
+  "version": "0.0.1",
+  "description": "Removes the password from Excel spreadsheets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogenes1oliveira/sheet-unlocker.git"
+  },
+  "keywords": [
+    "excel",
+    "unlock",
+    "password",
+    "xlsx"
+  ],
+  "author": "Diógenes Oliveira <diogenes1oliveira@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diogenes1oliveira/sheet-unlocker/issues"
+  },
+  "homepage": "https://github.com/diogenes1oliveira/sheet-unlocker#readme"
+}
